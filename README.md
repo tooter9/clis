@@ -24,7 +24,7 @@ Command-line tool for working with Cryptomator vaults. **100% compatible with Cr
 
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/cryptomator-cli.git
+git clone https://github.com/tooter9/clis.git
 cd cryptomator-cli
 
 # Build the JAR
